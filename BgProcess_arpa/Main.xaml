@@ -125,7 +125,7 @@
               <InArgument x:TypeArguments="x:Int32">[intCount+1]</InArgument>
             </Assign.Value>
           </Assign>
-          <Delay Duration="00:00:03" sap:VirtualizedContainerService.HintSize="452.6666666666667,114.66666666666667" sap2010:WorkflowViewState.IdRef="Delay_1" />
+          <Delay Duration="00:00:00" sap:VirtualizedContainerService.HintSize="452.6666666666667,114.66666666666667" sap2010:WorkflowViewState.IdRef="Delay_1" />
         </Sequence>
       </ui:InterruptibleWhile.Body>
     </ui:InterruptibleWhile>
